@@ -2,7 +2,7 @@
 info = """Your info
 """
 
-openid = "Your Openid"
+openid = "ohz9Mt4bCR7Yl5t7OmGcgbDYvClE"
 
 proxyPool_url = "proxy_pool"
 
