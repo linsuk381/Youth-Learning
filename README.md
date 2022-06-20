@@ -92,7 +92,7 @@
 > `docker`换源自行搜索
 
 ```bash
-git clone https://github.com/captain686/young-study.git
+git clone https://github.com/linsuk381/young-study.git
 cd young-study
 git clone https://github.com/jhao104/proxy_pool.git
 mv proxy.yml -f proxy_pool/docker-compose.yml
